@@ -9,7 +9,7 @@ body {
   margin: 0;
 }
 .menu{
-  background: #862ccf;
+  background: #d2cbd8;
   padding: 20px;
 }
 /* Header/logo Title */
@@ -37,7 +37,7 @@ body {
 /* Style the top navigation bar */
 .navbar {
   display: flex;
-  background-color: #7f31e4;
+  background-color: #000000;
 }
 
 /* Style the navigation bar links */
